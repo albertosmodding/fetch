@@ -39,6 +39,8 @@ dependency free
 ## installation
 ###### make sure cmake is installed properly!
 ```bash
+  cd fetch
   make
   sudo make install
+  sudo mv fetch /usr/local/bin
 ```
