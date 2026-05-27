@@ -23,18 +23,7 @@ dependency free
 ## example
 ###### used in low-end laptop down here:
 
-```txt
-  aaron@gentoo
-  ────────────
-  OS      Gentoo Linux
-  Kernel  6.18.31-gentoo-dist
-  Arch    x86_64
-  Shell   bash
-  Uptime  11m
-  CPU     Intel Core i7-3612QM @ 2.10GHz
-  Memory  2109 / 15845 MiB
-  Disk    39G / 229G
-  ────────────
+![screenshot](images/2026-05-27_16-12.png)─────
 ```
 ## installation
 ###### make sure cmake is installed properly!
